@@ -1,0 +1,18 @@
+.img-circle {
+    width: 80%;
+}
+
+.main-wrapper .tech {
+    color: #97AAC3;
+    font-style: italic;
+}
+
+.sidebar-wrapper .name {
+    font-size: 26px;
+    font-weight: 200;
+    padding-top: 20px;
+}
+
+.sidebar-wrapper .tagline {
+    font-size: 13px;
+}
